@@ -1,0 +1,17 @@
+istanbul --> 280
+istanbul 	salon2  10:00	11:30
+istanbul 	salon3  11:30	13:00
+istanbul 	salon1  13:00	14:30
+istanbul 	salon1  15:00	16:30
+
+ankara --> 275
+ankara 		salon3 	10:00	11:30
+ankara 		salon4 	11:30	13:00
+ankara 		salon3 	13:00	14:30
+ankara 		salon3 	15:00	16:30
+
+izmir --> 275
+izmir 	    salon3 	10:00	11:30
+izmir 	    salon2 	11:30	13:00
+izmir 	    salon1 	13:00	14:30
+izmir 	    salon1 	15:00	16:30

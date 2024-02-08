@@ -1,0 +1,16 @@
+Asset Price Value
+cello 2057 2.5
+trumpet 1832 2.2
+saxophone 2546 3
+accordion 3121 3.5
+bongos 732 1.5
+trombone 3796 4
+microphone 764 1
+stage_lights 6548 8
+pyrotechnics 9837 12
+fog_machine 2355 2.5
+backup_singers 5243 6.5
+choreographer 4076 5
+electro_guitar 3038 3.6
+bass_guitar 2627 2.9
+baglama 1490 2.1

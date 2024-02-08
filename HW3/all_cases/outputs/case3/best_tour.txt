@@ -1,0 +1,11 @@
+Total Revenue −−> 10530
+istanbul    May 3   May 8
+ankara      May 8   May 11
+izmir       May 12  May 15
+ankara      May 17  May 21
+izmir       May 21  May 25
+izmir       May 26  May 30
+istanbul    June 5  June 9
+istanbul    June 14 June 18
+ankara      June 20 June 24
+istanbul    June 27 June 30

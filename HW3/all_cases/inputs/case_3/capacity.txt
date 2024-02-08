@@ -1,0 +1,13 @@
+PlaceName SalonNo Capacity
+istanbul salon1 75
+istanbul salon2 65
+istanbul salon3 65
+istanbul salon4 70
+ankara salon1 65
+ankara salon2 55
+ankara salon3 70
+ankara salon4 65
+izmir salon1 70
+izmir salon2 70
+izmir salon3 65
+izmir salon4 65

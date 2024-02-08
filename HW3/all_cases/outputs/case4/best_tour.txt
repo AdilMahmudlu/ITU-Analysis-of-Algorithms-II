@@ -1,0 +1,9 @@
+Total Revenue −−> 38869
+place1 May 1 May 6
+place1 May 8 May 12
+place3 May 12 May 16
+place3 May 17 May 21
+place2 May 21 May 31
+place3 June 1 June 12
+place1 June 12 June 21
+place1 June 23 June 29

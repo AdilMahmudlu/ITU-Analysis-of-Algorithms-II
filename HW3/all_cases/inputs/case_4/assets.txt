@@ -1,0 +1,16 @@
+Asset Price Value
+asset1 4003 21
+asset2 5080 39
+asset3 6312 49
+asset4 7236 58
+asset5 4464 28
+asset6 3233 17
+asset7 5850 46
+asset8 7698 40
+asset9 2309 14
+asset10 2925 21
+asset11 3849 22
+asset12 3233 23
+asset13 5542 42
+asset14 3387 23
+asset15 1539 9

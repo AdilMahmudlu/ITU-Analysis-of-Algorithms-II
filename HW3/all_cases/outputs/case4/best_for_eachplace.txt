@@ -1,0 +1,24 @@
+place1 --> 788
+place1 salon3 8:12	10:07
+place1 salon4 10:25	11:55
+place1 salon2 11:57	14:07
+place1 salon2 14:14	16:24 
+place1 salon3 16:34	18:29
+place1 salon3 19:11	21:06
+place1 salon4 21:36	23:06
+
+place2 --> 660
+place2 salon2 8:11	10:11
+place2 salon2 10:20	12:20
+place2 salon1 12:34	14:19
+place2 salon1 15:04	16:49
+place2 salon1 16:53	18:38
+place2 salon4 20:52	23:52
+
+place3 --> 703
+place3 salon2 8:06	11:01
+place3 salon1 11:29	13:49
+place3 salon4 13:57	16:02
+place3 salon3 16:12	17:52
+place3 salon3 18:08	19:48
+place3 salon3 20:33	22:13

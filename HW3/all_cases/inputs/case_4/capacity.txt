@@ -1,0 +1,13 @@
+PlaceName SalonNo Capacity
+place1 salon1 154
+place1 salon2 140
+place1 salon3 106
+place1 salon4 95
+place2 salon1 85
+place2 salon2 121
+place2 salon3 76
+place2 salon4 163
+place3 salon1 123
+place3 salon2 166
+place3 salon3 101
+place3 salon4 111
